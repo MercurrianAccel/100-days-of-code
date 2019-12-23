@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day -1: 23 December 2019 (Preperations Underway...)
-##### (delete me or comment me out)
 
 **Today's Progress**: Read up on some rules, strategies and anecdotes from others taking the challenge.
 
@@ -13,7 +12,6 @@ At the moment, I'm doing Applied Visual Design. My programming skills in general
 ](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors)
 
 ### Day 0: 24 December 2019 (Applied Visual Design on FCC)
-##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
