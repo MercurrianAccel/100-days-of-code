@@ -13,8 +13,8 @@ At the moment, I'm doing Applied Visual Design. My programming skills in general
 
 ### Day 0: 24 December 2019 (Applied Visual Design on FCC)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: PENDING...
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: PENDING...
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: PENDING...
