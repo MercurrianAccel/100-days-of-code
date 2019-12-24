@@ -11,7 +11,7 @@ At the moment, I'm doing Applied Visual Design. My programming skills in general
 **Link to work:** [Applied Visual Design: Adjust the Color of Various Elements to Complementary Colors
 ](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors)
 
-### Day 0: 24 December 2019 (Applied Visual Design on FCC)
+### Day 0: 25 December 2019 (Applied Visual Design on FCC)
 
 **Today's Progress**: PENDING...
 
