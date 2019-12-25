@@ -8,13 +8,22 @@
 
 At the moment, I'm doing Applied Visual Design. My programming skills in general are rusty, and I happen to hold some interest in web design, so studying some more CSS is fine by me.
 
-**Link to work:** [Applied Visual Design: Adjust the Color of Various Elements to Complementary Colors
+**Challenges:** 
+[Applied Visual Design: Adjust the Color of Various Elements to Complementary Colors
 ](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors)
 
 ### Day 0: 25 December 2019 (Applied Visual Design on FCC)
 
-**Today's Progress**: PENDING...
+**Today's Progress**: Made progress in freeCodeCamp's Applied Visual Design course.
 
-**Thoughts**: PENDING...
+**Thoughts**: Tried out taking notes with Anki for the in-depth explanations on each challenge. It certainly slowed down my progress AT THE MOMENT, but it'd be handy for recalling key concepts later on. If supplementing fCC with Anki proves inefficiient, however, then I'll leave that alone for the time being.
 
-**Link(s) to work**: PENDING...
+CSS is an interesting language, and so is its implementations. I look forward to making more progress tomorrow.
+
+**Challenges:** 
+[Applied Visual Design: Adjust the Hue of a Color
+](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color)
+[Applied Visual Design: Adjust the Tone of a Color
+](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-tone-of-a-color)
+[Create a Gradual CSS Linear Gradient
+](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient)
