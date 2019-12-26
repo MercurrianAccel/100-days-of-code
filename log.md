@@ -24,3 +24,14 @@ CSS is an interesting language, and so is its implementations. I look forward to
 * From: [Applied Visual Design: Adjust the Hue of a Color
 ](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color)
 * To: [Use CSS Animation to Change the Hover State of a Button](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button)
+
+### Day 2: 26 December 2019 (Applied Visual Design on FCC)
+
+**Today's Progress**: Made progress in freeCodeCamp's Applied Visual Design course. [WIP]
+
+**Thoughts**: Just one day after starting may be too early to tell, but I think Anki helped me with recaling certain concpets from the past day of coding. 
+
+**Link to work:** 
+* From: [Applied Visual Design: Adjust the Hue of a Color
+](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color) [WIP]
+* To: [Use CSS Animation to Change the Hover State of a Button](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button) [WIP]
