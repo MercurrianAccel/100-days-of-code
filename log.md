@@ -25,13 +25,17 @@ CSS is an interesting language, and so is its implementations. I look forward to
 ](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color)
 * To: [Use CSS Animation to Change the Hover State of a Button](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button)
 
-### Day 2: 26 December 2019 (Applied Visual Design on FCC)
+### Day 2: 27 December 2019 (Applied Visual Design on FCC)
 
-**Today's Progress**: Made progress in freeCodeCamp's Applied Visual Design course. [WIP]
+**Today's Progress**: Finished Applied Visual Design and made progress with Applied Accessibility
 
-**Thoughts**: Just one day after starting may be too early to tell, but I think Anki helped me with recaling certain concpets from the past day of coding. 
+**Thoughts**: The applied visual design course was good for inspiration to learn more graphic design in my own time outside of freeCodeCamp for more aesthetically appealing and thematically cohesive pages. Learning about the cubic-bezier() function confused me a little and was also a good reminder for me to brush up my math as well.
+
+Now after visual design is the topic of accessibility. It's fascinating to actually learn about HTML5 rather than its older versions like I used to back in school. It's also sad that I never came across a chunk of these concepts, like the importance of tagging headers and other content properly for screen reader users.
+
+I have not seen or heard a Chuck Norris joke in probably a year or so until taking these exercises. How time flies and how trends change...
 
 **Link to work:** 
-* From: [Applied Visual Design: Adjust the Hue of a Color
-](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color) [WIP]
-* To: [Use CSS Animation to Change the Hover State of a Button](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button) [WIP]
+* From: [Modify Fill Mode of an Animation
+](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/modify-fill-mode-of-an-animation)
+* To: [Improve Form Field Accessibility with the label Element](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element)
